@@ -116,7 +116,7 @@ public class FolioReader {
     // MARK: - Get Cover Image
     
     /**
-     Read Cover Image and Return an IUImage
+     Read Cover Image and Return the apropriate IUImage
      */
     
     public class func getCoverImage(epubPath: String) -> UIImage {
